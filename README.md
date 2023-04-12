@@ -1,2 +1,2 @@
 # lavalink-checking-extension
-works only on chromium based browsers only.  
+idk why it wont work make pr if you know to fix it
