@@ -1,0 +1,12 @@
+{
+  "name": "Lavalink Checker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Checks if a Lavalink is offline or not.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
